@@ -3,4 +3,4 @@
 
 ## Video Guide how to use TEBS APP : https://youtu.be/jkR2JkBwRj0
 
-## Live app demo: 
+## Live app demo: https://tebs-app.herokuapp.com/
